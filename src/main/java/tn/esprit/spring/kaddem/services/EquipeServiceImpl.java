@@ -14,9 +14,9 @@ import java.util.Date;
 import java.util.List;
 import java.util.Set;
 
-@Slf4j
 @AllArgsConstructor
 @Service
+@Slf4j
 public class EquipeServiceImpl implements IEquipeService{
 	EquipeRepository equipeRepository;
 
